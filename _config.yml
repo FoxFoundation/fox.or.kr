@@ -1,0 +1,11 @@
+# Site settings
+title: 한국여우기구
+email: 64bitfox@gmail.com
+description: 
+baseurl: "" 
+url: "http://fox.or.kr"
+twitter_username: 64bitfox
+github_username:  FoxFoundation
+
+# Build settings
+markdown: kramdown
